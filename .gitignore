@@ -1,0 +1,2 @@
+/squid_cache/*
+!/squid_cache/README.md
